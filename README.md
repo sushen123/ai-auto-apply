@@ -1,4 +1,7 @@
 # Demo Video
+https://github.com/user-attachments/assets/9aec26dc-4434-4fd7-b864-bd6c2247ad98
+
+
 
 # 🚀 Auto Apply Jobs with AI - Chrome Extension
 
@@ -53,6 +56,8 @@ Before you get started, make sure you have:
 - Open Chrome and go to chrome://extensions/
 - Enable Developer mode (top-right corner).
 - Click on Load unpacked and select the dist folder from your project directory.
+- <img width="473" alt="loadpacked" src="https://github.com/user-attachments/assets/e852dfd8-0f58-484d-8cbd-2dca6d647f7c">
+
 
 
 ## 🤝 Contributors
