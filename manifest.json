@@ -1,0 +1,36 @@
+{
+    "manifest_version": 3,
+    "name": "AI Auto apply",
+    "version": "1.0.0",
+    "action": { "default_popup": "index.html" },
+    "host_permissions": ["<all_urls>"],
+    "permissions": [
+        "tabs",
+        "activeTab",
+        "scripting",
+         "storage",
+         "webNavigation"
+    ],
+    "content_scripts": [
+        {
+            "matches": ["https://www.linkedin.com/jobs/search/*"],
+            "js": ["src/linkedin/content.ts"]
+          },
+          {
+            "matches": ["https://www.indeed.com/jobs?*"], 
+            "js": ["src/indeed/content.ts"]
+        }
+
+  ],
+  "background": {
+    "service_worker": "src/background.ts",
+    "type": "module"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["sushen.pdf"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+  
+  }
