@@ -37,7 +37,7 @@ Before you get started, make sure you have:
 
 #### Clone the repository:
    ```bash
-   git clone https://github.com/sushen123/auto-apply-job-with-ai.git
+   git clone https://github.com/sushen123/ai-auto-apply.git
 ```
 #### Install the necessary dependencies:
   ```bash
