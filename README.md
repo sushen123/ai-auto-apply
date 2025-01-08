@@ -30,7 +30,7 @@ https://github.com/user-attachments/assets/9aec26dc-4434-4fd7-b864-bd6c2247ad98
 ### Prerequisites
 Before you get started, make sure you have:
 
-- [Node.js](https://nodejs.org/) installed on your machine
+- Node.js installed on your machine
 - A [Gemini API](https://gemini.com/) key (For gemini api key)
 
 ### Installation
