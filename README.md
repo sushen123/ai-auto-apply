@@ -11,7 +11,7 @@ https://github.com/user-attachments/assets/9aec26dc-4434-4fd7-b864-bd6c2247ad98
 
 ---
 ## 🔧 Technologies Used
-- Next.js , Typescript
+-  Typescript
 
 ## 🚀 Future Enhancements
 - **More Job Boards**: Support for Indeed and other popular job platforms is coming soon.
